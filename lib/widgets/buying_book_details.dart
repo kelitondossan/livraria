@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/models/books.dart';
-import 'package:lithabit/widgets/book_cover_3d.dart';
-import 'package:lithabit/widgets/book_details_bio.dart';
-import 'package:lithabit/widgets/book_details_box.dart';
-import 'package:lithabit/widgets/reading_book.dart';
+import 'package:livraria/models/books.dart';
+import 'package:livraria/widgets/book_cover_3d.dart';
+import 'package:livraria/widgets/book_details_bio.dart';
+import 'package:livraria/widgets/book_details_box.dart';
+import 'package:livraria/widgets/reading_book.dart';
 
 class BuyingBookDetails extends StatelessWidget {
   final Book book;

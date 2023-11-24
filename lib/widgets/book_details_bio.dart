@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/models/books.dart';
+import 'package:livraria/models/books.dart';
 
 import 'barcode_builder.dart';
 

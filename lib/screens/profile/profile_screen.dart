@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/screens/profile/sections/bio_section.dart';
-import 'package:lithabit/widgets/keep_reading_section.dart';
-import 'package:lithabit/screens/profile/sections/level_progress_section.dart';
-import 'package:lithabit/screens/profile/sections/statis_section.dart';
+import 'package:livraria/screens/profile/sections/bio_section.dart';
+import 'package:livraria/widgets/keep_reading_section.dart';
+import 'package:livraria/screens/profile/sections/level_progress_section.dart';
+import 'package:livraria/screens/profile/sections/statis_section.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);

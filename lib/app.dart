@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:lithabit/screens/screens_wrapper.dart';
-import 'package:lithabit/themes/app_theme.dart';
+import 'package:livraria/screens/screens_wrapper.dart';
+import 'package:livraria/themes/app_theme.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);

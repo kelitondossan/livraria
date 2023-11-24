@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/screens/home/sections/all_purchased_books.dart';
-import 'package:lithabit/widgets/keep_reading_section.dart';
-import 'package:lithabit/widgets/last_opened_book.dart';
+import 'package:livraria/screens/home/sections/all_purchased_books.dart';
+import 'package:livraria/widgets/keep_reading_section.dart';
+import 'package:livraria/widgets/last_opened_book.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

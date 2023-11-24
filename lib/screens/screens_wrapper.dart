@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/screens/home/home_screen.dart';
-import 'package:lithabit/screens/market/market_screen.dart';
-import 'package:lithabit/screens/profile/profile_screen.dart';
+import 'package:livraria/screens/home/home_screen.dart';
+import 'package:livraria/screens/market/market_screen.dart';
+import 'package:livraria/screens/profile/profile_screen.dart';
 
 class ScreensWrapper extends StatefulWidget {
   const ScreensWrapper({Key? key}) : super(key: key);

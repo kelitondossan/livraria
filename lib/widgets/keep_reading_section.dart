@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/widgets/reading_book.dart';
+import 'package:livraria/widgets/reading_book.dart';
 import '../api/generated_books.dart';
 import '../models/books.dart';
 import 'book_cover_3d.dart';

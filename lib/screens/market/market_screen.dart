@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:lithabit/screens/market/filters/filter_row_section.dart';
-import 'package:lithabit/screens/market/suggestions/discount_books.dart';
-import 'package:lithabit/screens/market/suggestions/popular_books.dart';
-import 'package:lithabit/screens/market/suggestions/trend_books.dart';
+import 'package:livraria/screens/market/filters/filter_row_section.dart';
+import 'package:livraria/screens/market/suggestions/discount_books.dart';
+import 'package:livraria/screens/market/suggestions/popular_books.dart';
+import 'package:livraria/screens/market/suggestions/trend_books.dart';
 
 import 'filters/search_bar.dart';
 
