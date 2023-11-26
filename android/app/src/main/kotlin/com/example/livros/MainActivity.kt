@@ -1,4 +1,4 @@
-package com.example.lithabit
+package com.example.livros
 
 import io.flutter.embedding.android.FlutterActivity
 
